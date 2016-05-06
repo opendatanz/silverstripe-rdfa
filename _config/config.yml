@@ -1,0 +1,6 @@
+---
+Name: rdfa
+---
+Page:
+  extensions:
+    - RDFaExtension

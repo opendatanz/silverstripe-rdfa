@@ -1,0 +1,1 @@
+vocab="$RDFaVocab" <% if $RDFaVocabPrefix %>prefix="$RDFaVocabPrefix"<% end_if %> <% if $RDFaTypeof %>typeof="$RDFaTypeof"<% end_if %>
