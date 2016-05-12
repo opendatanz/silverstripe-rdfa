@@ -1,6 +1,7 @@
 {
 	"name": "opendatanz/silverstripe-rdfa",
 	"description": "RDFa in SilverStripe CMS for Linked Data",
+	"type": "silverstripe-module",
 	"keywords": ["silverstripe", "CMS", "Linked Data", "RDF", "RDFa", "Data Graph"],
 	"license": "BSD-3-Clause",
 	"minimum-stability": "dev"
